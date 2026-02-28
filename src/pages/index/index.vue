@@ -3,6 +3,7 @@
     <image class="logo" src="/static/logo.png"></image>
     <view class="text-area">
       <text class="title">{{ title }}</text>
+      <text>The presentation of video game Hollow Knight stories and skills of game play in Weixin mini program.</text>
     </view>
   </view>
 </template>
@@ -11,7 +12,7 @@
 export default {
   data() {
     return {
-      title: 'Hello',
+      title: '空洞Pedia',
     }
   },
   onLoad() {},
