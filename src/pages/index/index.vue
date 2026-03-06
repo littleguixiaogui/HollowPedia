@@ -15,7 +15,7 @@
     <view class="reference">
       <view class="reference_title">Reference</view>
       <view class="section_devider"></view>
-      <view class="reference_description"> 💠Hollowknight.fandom.com</view>
+      <view class="reference_description"> 💠 Hollowknight.fandom.com</view>
     </view>
   </view>
 </template>
